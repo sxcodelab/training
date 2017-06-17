@@ -1,2 +1,2 @@
-# training
-Training Modules for ScholarX Team Members
+#  CodeTraining
+Code Training Modules for ScholarX.org Team Members
